@@ -1,12 +1,12 @@
 {
   "name": "berish-ringle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Singleton manupulations + singleton collections",
   "main": "index.js",
   "author": {
     "name": "Berishev Ravil"
   },
   "dependencies": {
-    "berish-collection": "berish-collection"
+    "berish-collection": "^1.0.2"
   }
 }
