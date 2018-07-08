@@ -1,9 +1,9 @@
 {
   "name": "berish-ringle",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Singleton manupulations + singleton collections",
   "dependencies": {
-    "berish-collection": "^1.0.2"
+    "berish-collection": "^2.0.1"
   },
   "main": "dist/index",
   "typings": "dist/index",
