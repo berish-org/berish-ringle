@@ -30,3 +30,7 @@ export function getSingletonCollection(scope?: KeyType) {
   if (!scopes.containsKey(scope)) scopes.add(scope, new collection.Dictionary());
   return scopes.get(scope);
 }
+
+export function getScopeOfInstance(instance: any) {
+  return instance && instance[SYMBOL_SCOPE];
+}
