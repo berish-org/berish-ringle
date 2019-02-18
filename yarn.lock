@@ -5,11 +5,13 @@
 berish-collection@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/berish-collection/-/berish-collection-2.0.1.tgz#733fc48c95612111a3912a8245e859fb81e2efbb"
+  integrity sha1-cz/EjJVhIRGjkSqCRehZ+4Hi77s=
   dependencies:
     berish-linq "^2.0.0"
 
 berish-linq@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/berish-linq/-/berish-linq-2.0.0.tgz#0fa7a7b069e83014d8179c0363d27c79d4cee551"
+  integrity sha1-D6ensGnoMBTYF5wDY9J8edTO5VE=
   dependencies:
     berish-collection "^2.0.1"
